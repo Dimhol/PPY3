@@ -10,3 +10,5 @@ class CubicGenerator(SquareGenerator):
         if end < start:
             raise ValueError("End must be greater than or equal to start.")
         return [x**3 for x in range(start, end + 1)]
+#Finish
+#
