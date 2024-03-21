@@ -1,6 +1,6 @@
 from square_generator.square_generator import CubicGenerator
 import math
-
+####1
 # Task 1: Generate squares of numbers 1 through 10 using list comprehension
 squares = [x**2 for x in range(1, 11)]
 print("Squares from 1 to 10:", squares)
